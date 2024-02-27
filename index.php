@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Exemplo</title>
+    <title>$nomeSite</title>
 </head>
 <body>
     <?php include "dados.php"; ?>
